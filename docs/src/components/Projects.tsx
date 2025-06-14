@@ -37,6 +37,13 @@ const Projects: React.FC = () => {
       image: 'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       technologies: ['HTML', 'CSS', 'JavaScript', 'React'],
     },
+     {
+      title: 'Portfolio-website',
+      description: 'Created an portfolio website',
+      image: 'https://images.pexels.com/photos/4402584/pexels-photo-4402584.jpeg?auto=compress&cs=tinysrgb&w=1260',
+      technologies: ['HTML', 'Tailwind CSS', 'React'],
+      "githubUrl":"https://github.com/mujaseemd/my_portfolio"
+    },
     {
   "title": "Healthcare Management System",
   "description": "Built a full-stack healthcare management system with MySQL, React, and MVC architecture for scalability and maintainability.",

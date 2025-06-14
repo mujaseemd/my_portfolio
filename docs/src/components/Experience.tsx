@@ -27,6 +27,17 @@ const Experience: React.FC = () => {
       ],
       technologies: ['Python', 'Machine Learning', 'Deep Learning', 'Computer Vision', 'TensorFlow']
     },
+      {
+      company: 'Chaitanya India Fin Credit pvt ltd',
+      position: 'Data Science Intern',
+      duration: 'Jun 2025 - present',
+      location: 'Bengaluru, India',
+      description: 'Building a centralized feature store to standardize and serve machine learning features across teams, ensuring reusability, consistency, and real-time availability for production models ',
+      achievements: [
+        "Initiated the design and architecture of a centralized feature store to support scalable and reusable ML features."
+      ],
+      technologies: ['Python', 'PostgreSQL','Pandas','Parquet','Apache Pyspark']
+    }
   ];
 
   const [activeTab, setActiveTab] = useState(0);

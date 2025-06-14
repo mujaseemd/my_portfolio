@@ -9,7 +9,7 @@ const Education: React.FC = () => {
       institution: 'PES UNIVERSITY, BENGALURU',
       duration: 'Nov 2022 - Present',
       description: 'Pursuing Computer Science and Engineering with focus on data science and machine learning.',
-      gpa: '8.59'
+      gpa: '8.66'
     },
     {
       degree: 'Pre-University - PCMB',
