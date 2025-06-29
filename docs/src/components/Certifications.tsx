@@ -22,13 +22,37 @@ const Certifications: React.FC = () => {
       credentialURL: 'https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_vx6YezA7nANbKFqnb_1751036963445_completion_certificate.pdf',
       skills: ['AWS']
     },
+    {
+      title: 'Accenture Nordics - Software Engineering Job Simulation',
+      issuer: 'Forage',
+      date: 'Jun 2025',
+      credentialId: '9NW4X4FroMdLAGWy6',
+      credentialURL: 'https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/xhih9yFWsf6AYfngd/HNpZwZcuYwona2d8Y_xhih9yFWsf6AYfngd_vx6YezA7nANbKFqnb_1751047100933_completion_certificate.pdf'
+    },
+       {
+      title: 'Cloud Computing Fundamentals',
+      issuer: 'IBM',
+      date: 'Jun 2025',
+      credentialId: '32e881a2-38a9-40c1-ae6e-0b7ee9407ef1',
+      credentialURL: 'https://www.credly.com/badges/32e881a2-38a9-40c1-ae6e-0b7ee9407ef1/public_url',
+      skills: ['Cloud computing','Docker','Kubernetes']
+    },
+    
+        {
+      title: 'AWS Educate Getting Started with Serverless',
+      issuer: 'Amazon Web Services (AWS)',
+      date: 'Jan 2025',
+      credentialId: '393583aa-0894-4c3d-a1b4-4aa276159289',
+      credentialURL: 'https://www.credly.com/badges/393583aa-0894-4c3d-a1b4-4aa276159289/public_url',
+      skills: ['Cloud computing','AWS']
+    },
 
     {
       title: 'Problem Solving (Intermediate)',
       issuer: 'HackerRank',
       date: '2024',
     },
-    
+
     {
       title: 'Artificial Intelligence with Python',
       issuer: 'Coinciet.ai',
