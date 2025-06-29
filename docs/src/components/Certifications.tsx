@@ -15,6 +15,14 @@ interface Certification {
 const Certifications: React.FC = () => {
   const certifications: Certification[] = [
     {
+      title: 'AWS - Solutions Architecture Job Simulation',
+      issuer: 'Forage',
+      date: 'Jun 2025',
+      credentialId: '6Da6p4trbLqa5yytR',
+      credentialURL: 'https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_vx6YezA7nANbKFqnb_1751036963445_completion_certificate.pdf',
+      skills: ['AWS']
+    },
+    {
       title: 'Problem Solving (Intermediate)',
       issuer: 'HackerRank',
       date: '2024',
