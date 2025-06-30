@@ -46,6 +46,14 @@ const Certifications: React.FC = () => {
       credentialURL: 'https://www.credly.com/badges/393583aa-0894-4c3d-a1b4-4aa276159289/public_url',
       skills: ['Cloud computing','AWS']
     },
+            {
+      title: 'Introduction to MS Excel',
+      issuer: 'Simplilearn',
+      date: 'Jun 2025',
+      credentialId: '8548066',
+      credentialURL: 'https://drive.google.com/file/d/1okCoaWIA9YodGC8t1LCnexa8ddHzSuqN/view?usp=sharing',
+      skills: ['Excel','Data Analysis']
+    },
 
     {
       title: 'Problem Solving (Intermediate)',
